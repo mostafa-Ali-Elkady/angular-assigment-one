@@ -24,3 +24,6 @@
 .interface {
   z-index: 100000;
 }
+.interface-img {
+  width: min(90%, 600px);
+}
