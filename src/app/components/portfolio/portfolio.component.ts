@@ -22,7 +22,7 @@ export class PortfolioComponent {
     this.clickedSrc = image.src;
   }
   toggleImage() {
-  return this.clickedSrc = !this.clickedSrc;
+  return this.clickedSrc = null;
 
   }
 }
